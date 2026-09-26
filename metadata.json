@@ -1,0 +1,6 @@
+{
+  "name": "DROZONE - Drone Delivery & Local Commerce",
+  "description": "Your Order. From Store to Sky. Modern local commerce and drone delivery simulation platform connecting customers, merchants, and smart aerial logistics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
